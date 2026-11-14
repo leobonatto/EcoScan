@@ -1,0 +1,16 @@
+{
+  "total_images": 6114,
+  "train_images": 4891,
+  "test_images": 1223,
+  "classes": [
+    "metal",
+    "papel",
+    "papelao",
+    "plastico",
+    "rejeito",
+    "vidro"
+  ],
+  "best_model": "SVM RBF",
+  "best_f1_macro": 0.6506073162614657,
+  "random_state": 42
+}

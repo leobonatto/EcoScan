@@ -1,0 +1,10 @@
+data/raw/
+data/extracted/
+data/processed/features.joblib
+data/processed/manifest*.csv
+tmp/
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
