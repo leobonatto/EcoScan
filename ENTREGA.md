@@ -19,7 +19,7 @@
 
 - [x] Inserir os nomes dos integrantes na capa.
 - [ ] Comparar a formatação com o modelo do professor, caso ele seja disponibilizado sem restrição de acesso.
-- [ ] Criar e confirmar o endereço do novo repositório exclusivo do EcoScan.
-- [ ] Enviar o projeto ao novo repositório do GitHub.
+- [x] Criar e confirmar o endereço do novo repositório exclusivo do EcoScan.
+- [x] Enviar o projeto ao novo repositório do GitHub.
 - [ ] Abrir o PDF final em outro computador ou celular para uma última conferência.
 - [ ] Entregar no Classroom o PDF e o link do repositório até 16/11, às 23h59.

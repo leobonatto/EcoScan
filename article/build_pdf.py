@@ -345,7 +345,7 @@ def build_story():
     story += [
         P("O melhor modelo foi salvo em Joblib e integrado a uma API em FastAPI. O endpoint recebe uma imagem, aplica o mesmo pré-processamento do treino e devolve a classe prevista, o modelo utilizado e uma confiança aproximada calculada a partir das pontuações da SVM. A API é um protótipo de apoio e não um sistema de decisão automática."),
         P("Em uma aplicação futura, registros da API poderão apoiar o acompanhamento de erros e a seleção de novas imagens para retreinamento. Para uma organização, essas informações podem orientar campanhas de descarte, capacitação de equipes e ajustes nos coletores. Essas decisões exigem dados reais de uso; a quantidade de imagens de um dataset não representa a frequência de resíduos de uma empresa ou cidade."),
-        P("O código, as instruções e os resultados estão no repositório https://github.com/leobonatto/Planterra2.0, na pasta EcoScan. Os arquivos brutos não são versionados devido ao tamanho; os endereços oficiais e o procedimento de obtenção estão documentados no projeto."),
+        P("O código, as instruções e os resultados estão no repositório https://github.com/leobonatto/EcoScan. Os arquivos brutos não são versionados devido ao tamanho; os endereços oficiais e o procedimento de obtenção estão documentados no projeto."),
     ]
 
     story += [PageBreak(), H1("6 Limitações e trabalhos futuros")]
